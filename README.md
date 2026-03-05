@@ -1,4 +1,4 @@
-# WGSL-Fragment-Shader-Text
+# WGSL-Fragment-Shader-Debug-Text
 WGSL implementation of a minimal text renderer
 
 Shader is in 'text.wgsl'
